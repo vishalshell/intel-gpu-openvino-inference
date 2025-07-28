@@ -62,7 +62,7 @@ python inference.py
 
 ## 👨‍💻 Author
 
-Vishal — [UST Global](https://ust.com)
+Vishal — vishal.im@gmail.com
 
 ## 📄 License
 
