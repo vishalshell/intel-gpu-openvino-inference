@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env/
+venv/
+*.onnx
+*.log
+*.bak
+model/*.bin
+model/*.xml
